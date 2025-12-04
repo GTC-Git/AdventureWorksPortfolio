@@ -71,5 +71,5 @@ Com esta análise, chegamos as seguintes conclusões:<br>
 ## Ferramentas e linguagens utilizadas
 <div style="display: inline_block">
     <img align="center" alt="SQL" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/logo.png?raw=true">
-    <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/1200px-New_Power_BI_Logo.svg.png?raw=true">
+    <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/GTC-Git/Portfolio/blob/main/linguagens/power%20bi.png?raw=true">
 </div>
