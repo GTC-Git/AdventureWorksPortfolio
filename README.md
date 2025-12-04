@@ -5,7 +5,7 @@ Fazendo o download do arquivo AdventureWorksDW2022.bak e anexando-o no SQL Serve
 <br><br>
 
 ## Análise exploratória de dados
-<img align="right" width="500"  src="https://github.com/BruceFonseca/AdventureWorks2022/blob/main/imagens/AdventureWorks%20-%20Clientes.png?raw=true">
+<img align="right" width="500"  src="https://github.com/GTC-Git/AdventureWorksPortfolio/blob/main/SQL/AdventureWorks%20-%20Clientes.sql">
 Iniciamos o projeto entendendo cada objeto, tabela, campo, tipos de dados e relacionamentos do modelo de dados AdventureWorks. Após identificar a tabela de clientes e vendas, desenvolvemos os scripts em SQL para explorar os dados e extrair os primeiros insights durante a análise exploratória de dados. Como por exemplo: <br><br>
 - Clientes distintos <br>
 - Clientes por país/região <br>
